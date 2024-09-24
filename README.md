@@ -7,5 +7,5 @@ Chord-Recombinator is a Python script assisting musicians with composition. The 
 -C Major seventh (CEGB)
 -E minor seventh (EGBD)
 
-This software is helpful for composers trying to composer with a limited set of notes, allowing them to explore different combinations of notes within such a set. A working version of this software is linked here at https://chordguru.glitch.me/chords/index.html.
+This software is helpful for composers trying to compose with a limited set of notes, allowing them to explore different combinations of notes within such a set. A working version of this software is linked here at [chordguru.glitch.me](https://chordguru.glitch.me/chords/index.html), done in collaboration with [Alex Chen](https://github.com/alexchen2).
 
